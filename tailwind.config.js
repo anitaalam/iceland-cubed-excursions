@@ -15,6 +15,7 @@ module.exports = {
       '5xl': '3.75rem',
       '6xl': '4rem',
       '7xl': '5rem',
+      '8xl': '6em',
       '9xl': '8rem'
     },
     extend: {
@@ -27,6 +28,9 @@ module.exports = {
         'sans': ['Roboto Condensed'],
         'sans': ['Anton'],
       },
+      screens: {
+        'bigscreen': '1440px'
+      }
     },
   },
   plugins: [],
