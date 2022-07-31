@@ -1,9 +1,9 @@
 {
   "scripts": {
-    "build:css": "node_modules/.bin/tailwindcss -i ./src/input.css -o ./dist/output.css", 
+    "build:css": "node_modules/.bin/tailwindcss -i ./src/input.css -o ./dist/output.css",
     "watch:css": "node_modules/.bin/tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
   },
   "devDependencies": {
-    "tailwindcss": "^3.1.6"
+    "tailwindcss": "^3.1.7"
   }
 }

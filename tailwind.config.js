@@ -12,15 +12,12 @@ module.exports = {
       '2xl': '1.5rem',
       '3xl': '1.875rem',
       '4xl': '2.375rem',
-      '5xl': '3rem',
+      '5xl': '3.75rem',
       '6xl': '4rem',
       '7xl': '5rem',
       '9xl': '8rem'
     },
     extend: {
-      // dropShadow: {
-      //   '3xl': '4px 4px 4px rgba(0, 0, 0, 0.55)',
-      // },
       colors: {
         'blue': '#1fb6ff',
         'ice-green': '#00efb6',

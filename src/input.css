@@ -11,4 +11,10 @@
     h1 {
         font-family: 'Anton', system-ui, sans-serif;
       }
+    h2 {
+      font-family: 'Permanent Marker', system-ui, sans-serif;
+    }
+    h4 {
+      font-family: 'Anton', system-ui, sans-serif;
+    }
   }
