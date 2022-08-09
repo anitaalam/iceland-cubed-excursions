@@ -16,7 +16,9 @@ module.exports = {
       '6xl': '4rem',
       '7xl': '5rem',
       '8xl': '6em',
-      '9xl': '8rem'
+      '9xl': '8rem',
+      '10xl': '10em',
+      '11xl': '11em'
     },
     extend: {
       colors: {
@@ -29,7 +31,9 @@ module.exports = {
         'sans': ['Anton'],
       },
       screens: {
-        'bigscreen': '1440px'
+        '2xl': '1440px',
+        '3xl': '1600px',
+        '4xl': '1920px'
       }
     },
   },
