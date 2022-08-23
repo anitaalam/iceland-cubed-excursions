@@ -12,7 +12,7 @@ Presented in Quality Assurance, New Media Design and Web Development in British 
 __<br />__
 ## About
  
-Iceland Cubic Excursions’ (ICE) was a fictional tour agency that specialises in creating custom travel packages for Canadians looking to vacation in Iceland. We offered Canadians who are looking to travel worry-free to Iceland adapted tour packages that are unique to their individual needs. The site we builded overview our services, giving users a seamless way to send our expert their party information in order to inquire about the 3 unique travel packages that we offer.
+Iceland Cubic Excursions’ (ICE) is a fictional tour agency that specialises in creating custom travel packages for Canadians looking to vacation in Iceland. We offered Canadians who are looking to travel worry-free to Iceland adapted tour packages that were unique to their individual needs. The site we builded overview our services, giving users a seamless way to send our expert their party information in order to inquire about the 3 unique travel packages that we offer.
 
 Users should, therefore, be able to select the package that they are interested in and send their travel information to ICE’s experts, so that they may receive a quote for the package that suits their specific needs.
 
