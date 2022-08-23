@@ -1,6 +1,3 @@
-
-
-
 # Iceland cubed excursions
 
 Presented in Quality Assurance, New Media Design and Web Development in British Columbia Institute of Technology – Summer 2022 
@@ -22,8 +19,8 @@ Users should, therefore, be able to select the package that they are interested 
 [Live site](https://icelandcubedexcursions.anitalam.ca/)
 
 
-![index page-1](./images/screen1.jpg)
-<img src="./images/screen1.jpg" width="300">
+
+<img src="./images/screen1.jpg" alt="index-1" width="300"><img src="./images/screen2.jpg" alt="index-2" width="300"><img src="./images/screen3.jpg" alt="index-3" width="300"><img src="./images/screen4.jpg" alt="contact" width="300">
 
 ## Team
 * [Anita Lam](http://anitalam.ca/) | Developer (Lead developer – Index page)
@@ -45,7 +42,7 @@ Users should, therefore, be able to select the package that they are interested 
 
 ## Documentation
 * [MockUp](https://www.figma.com/proto/88FTKyhsf1Am1lKix6Fh0L/ICE?node-id=2%3A27&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A27)
-* [Report](https://docs.google.com/document/d/12S2KsdmgKW2aRrFBunLbVG3272S31omO3tlsJ11Atq8/edit?usp=sharing)
+* [QA Check list](https://docs.google.com/document/d/16VdX78LR7wkA-d6ozDqCfgHQl2pOFSVo/edit)
 
 
 
@@ -53,9 +50,10 @@ Users should, therefore, be able to select the package that they are interested 
   
 | Memeber                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| Misun Kim | <ul><li>Developed an android application for data exchange using fetch method</li><li>Developed an layout using React native nagvigation, React native elemtns and React native paper </li><li>Understanding custom API building process and manage to use for building functionality</li><li>Manage the issue with project board and solve it (tried to various library for building layout but found bugs and change it)</ul> |
-| Anita Lam | <ul><li>Created database for a live API</li><li>Setup the database and checked for connection and database processing in PHP using PDO</li><li>Added the model and controller for an endpoint to look up personality type from the database</li><li>Connected the database so that the API can be used live</li></ul>|
-| Julia Sun | <ul><li>How the functionality of the ui kit affects the design and the importance of incorporating the designer</li><li>the coding aspect in the beginning is important so that there’s less révisions</li></ul> |
+| Anita Lam | <ul><li>Website building using TailWindCSS framework</li><li>Writing CSS in the form of classes within the HTML file</li><li>The availability of utility classes made it quicker to build responsive layouts</li><li>Increased knowledge of CSS</li><li><b>DIFFICULTIES FACE:</b> process of setting up the project</li><li>As the styles increased, the HTML file started to look confusing</li></ul>|
+| Misun Kim | <ul><li>Building a responsive website using Tailwind</li><li>Understanding framework structure and installation process</li><li>Understanding responsive layout(unit– rem, because tailwind using rem, breakpoint, flex)</li><li>Communicate with team by project board</li><li>Manage the issue with project board and solve it</li></ul> |
+| Carissa so | <ul><li>How the functionality of the ui kit affects the design and the importance of incorporating the designer</li><li>the coding aspect in the beginning is important so that there’s less révisions</li></ul> |
+| Eunhye Jang | <ul><li>How the functionality of the ui kit affects the design and the importance of incorporating the designer</li><li>the coding aspect in the beginning is important so that there’s less révisions</li></ul> |
 
 
    
