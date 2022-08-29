@@ -56,8 +56,6 @@ __<br />__
 | Anita Lam | <ul><li>Website building using TailWindCSS framework</li><li>Writing CSS in the form of classes within the HTML file</li><li>The availability of utility classes made it quicker to build responsive layouts</li><li>Increased knowledge of CSS</li><li><b>DIFFICULTIES FACE:</b> process of setting up the project</li><li>As the styles increased, the HTML file started to look confusing</li></ul>|
 | Misun Kim | <ul><li>Building a responsive website using Tailwind</li><li>Understanding framework structure and installation process</li><li>Understanding responsive layout(unit– rem, because tailwind using rem, breakpoint, flex)</li><li>Communicate with team by project board</li><li>Manage the issue with project board and solve it</li></ul> |
 | Carissa So | <ul><li>Managing a team with multiple developers</li><li>Utilising GitHub repositories to manage code and coordinate issue tracking in a managerial position</li><li>Problem solving within constraints of the given framework</li><li>Troubleshooting development issues (particularly during the QA process as related to using TailWind, and while working remotely from home)</li><li>Thorough, detail-oriented project planning (with alternatives) even before the design process to ensure we have reasonably addressed most of the potential concerns before production begins</li></ul> |
-| Eunhye Jang | <ul><li></li><li></li></ul> |
-
 
    
 
